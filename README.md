@@ -35,7 +35,14 @@
                       <span class="say">My little panda 🐼</span><br>
                       <span class="say">My Best Friend Forever💖</span><br>
                       <span class="say">UR MY CLOSEST EVER🫶</span><br>
-                      <span class="say">You're my blessing from the universe, my proof that miracles do happen. I'll always be grateful for the day I found you, and even more grateful that you stayed.Today is all about celebrating you, the beautiful soul that makes every day so much brighter. Have the most amazing birthday-you deserve nothing less!</span><br>
+                      <span class="say">You're my blessing from the universe, 
+                        my proof that miracles do happen. 
+                        I'll always be grateful for the day I found you, 
+                        and even more grateful that you stayed.
+                        Today is all about celebrating you, 
+                        the beautiful soul that makes every day
+                        so much brighter. Have the most 
+                        amazing birthday-you deserve nothing less!</span><br>
                       <span class="say"><span class="space"></span></span> </font>
                           <br />
                           <br />
