@@ -36,13 +36,13 @@
                       <span class="say">My Best Friend Forever💖</span><br>
                       <span class="say">UR MY CLOSEST EVER🫶</span><br>
                       <span class="say">You're my blessing from the universe, 
-                        my proof that miracles do happen. 
-                        I'll always be grateful for the day I found you, 
-                        and even more grateful that you stayed.
-                        Today is all about celebrating you, 
-                        the beautiful soul that makes every day
-                        so much brighter. Have the most 
-                        amazing birthday-you deserve nothing less!</span><br>
+                      <span class="say">my proof that miracles do happen.</span><br> 
+                      <span class="say">I'll always be grateful for the day I found you,</span><br> 
+                      <span class="say">  and even more grateful that you stayed.</span><br>
+                      <span class="say"> Today is all about celebrating you,</span><br>
+                      <span class="say"> the beautiful soul that makes every day</span><br>
+                      <span class="say">so much brighter. Have the most</span><br>
+                      <span class="say"> amazing birthday-you deserve nothing less!</span><br>
                       <span class="say"><span class="space"></span></span> </font>
                           <br />
                           <br />
